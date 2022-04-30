@@ -1,0 +1,26 @@
+{
+  "total": 1,
+  "albums": [{
+    "id": 1,
+    "name": "atardecer",
+    "dateCreated": "2022-03-24 17:45:12",
+    "dateModified": "2022-03-24 17:45:12",
+    "description": "atardeceres en bosques y ciudades",
+    "pictures": [
+      "https://www.ngenespanol.com/wp-content/uploads/2018/08/Grandes-Atardeceres-770x413.jpeg",
+      "https://media.admagazine.com/photos/618a679fa9f7fab6f0622f14/master/w_1600,c_limit/64213.jpg",
+      "https://farm6.staticflickr.com/5796/20728991695_1547cec5ef_b.jpg"
+    ]
+  }, {
+    "id": 2,
+    "name": "perritos",
+    "dateCreated": "2022-03-24 17:45:12",
+    "dateModified": "2022-03-24 17:45:12",
+    "description": "distintos tipos de perros y razas",
+    "pictures": [
+      "https://dogpet.net/wp-content/uploads/2021/06/Fotos-de-perros-bonitos-2.webp",
+      "https://cdn2.excelsior.com.mx/media/styles/image800x600/public/pictures/2021/06/09/2592367.jpg",
+      "https://www.chilango.com/vida/11-lugares-apadrinar-adoptar-perros-rescatados-cdmx/"
+    ]
+  }]
+}
